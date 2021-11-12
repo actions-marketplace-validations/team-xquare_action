@@ -1,4 +1,4 @@
-name: xquare
+name: team-xquare
 description: A GitHub action to automate releases with Changesets
 runs:
   using: "node12"
